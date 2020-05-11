@@ -1,0 +1,22 @@
+body{
+    background-color: #f3e1e1;
+}
+
+
+.main-div{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  flex-direction:column;
+  position:relative;
+  top:100px;
+}
+
+
+.grid{
+  display:flex;
+  flex-wrap:wrap;
+  height:300px;
+  width:400px;
+
+}
